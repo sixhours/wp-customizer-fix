@@ -1,0 +1,7 @@
+.error {
+	background-color: #d94f4f;
+	color: white;
+	display: block;
+	margin-bottom: 12px;
+	padding: 8px 13px;
+}
